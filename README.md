@@ -21,7 +21,7 @@
 
 <span style="color: #41b349; font-size: 15px; font-weight: bold;">使用说明:</span>
 
-- 没有出现在`该文档`其余协议与`原版`没有区别
+- 没有出现在`该文档`的其余协议与`原版`没有区别
 - 官方文档地址: https://sing-box.sagernet.org/zh/
 
 ###### 路由设置
