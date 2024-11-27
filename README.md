@@ -1,4 +1,4 @@
-# TPBox-ForAnddroid
+# TPBox-ForAndroid
 
 <span style="color: #41b349; font-size: 15px; font-weight: bold;">软件说明:</span>
 
