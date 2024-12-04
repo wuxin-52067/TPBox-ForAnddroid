@@ -18,6 +18,7 @@
 - `仅代理`: 启动一个本地代理
 - `TUN模式`需要`root权限`才能使用
 - `VPN`与`TUN`的区别: VPN`需要`软件常驻后台，而TUN模式则`不需要`
+- `TUN模式`下要通过`热点或中继共享`您的网络连接时`不需要任何`的额外设置
 
 <span style="color: #41b349; font-size: 15px; font-weight: bold;">使用说明:</span>
 
@@ -118,7 +119,5 @@ Proxy-Connection: Keep-Alive
 - 如果添加的`自定义请求头`中包含`Host`,`Del Host`将无效
 
 <span style="color: #41b349; font-size: 13px; font-weight: bold;">其他注意:</span>
-
-- 设置中的`Github代理`是用于下载远程路由文件的,如果`代理失效`请`自行更换`别的代理
 
 - 因为`软件设计`问题`不允许节点昵称重复`如果`导入的节点`与`已导入的节点`重名软件会`自动重命名`所以不必`大惊小怪`
