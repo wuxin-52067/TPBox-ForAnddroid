@@ -3,7 +3,7 @@
 <span style="color: #41b349; font-size: 15px; font-weight: bold;">软件说明:</span>
 
 - 一款基于`sing-box`编写的`安卓通用代理客户端`
-- sing-box 版本: `fork 1.10.3`
+- sing-box 版本: `fork 1.10.5`
 - sing-box项目地址: https://github.com/SagerNet/sing-box
 
 - 原版在1.6.0版本中舍弃了`SSR`协议`fork版本`中再次添加了`SSR`协议
