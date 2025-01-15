@@ -1,9 +1,7 @@
-# TPBox-ForAndroid
-
 <span style="color: #41b349; font-size: 15px; font-weight: bold;">软件说明:</span>
 
 - 一款基于`sing-box`编写的`安卓通用代理客户端`
-- sing-box 版本: `fork 1.10.5`
+- sing-box 版本: `fork 1.10.7`
 - sing-box项目地址: https://github.com/SagerNet/sing-box
 
 - 原版在1.6.0版本中舍弃了`SSR`协议`fork版本`中再次添加了`SSR`协议
@@ -113,11 +111,8 @@ Proxy-Connection: Keep-Alive
 
 - 至于有什么用呢?
 
-- 某度直连的http代理在握手时需要添加一个`X-T5-Auth`头来作为身份验证,开启`Del Host`后你会发现`就算没有添加身份验证`
-  也可以`握手成功`,其他作用自行探索。
-
-- 如果添加的`自定义请求头`中包含`Host`,`Del Host`将无效
+- 某度直连的http代理在握手时需要添加一个`X-T5-Auth`头来作为身份验证,开启`Del Host`后你会发现`就算没有添加身份验证`也可以`握手成功`,其他作用自行探索。
 
 <span style="color: #41b349; font-size: 13px; font-weight: bold;">其他注意:</span>
 
-- 因为`软件设计`问题`不允许节点昵称重复`如果`导入的节点`与`已导入的节点`重名软件会`自动重命名`所以不必`大惊小怪`
+- 因为`软件设计`问题`不允许节点昵称重复`如果`导入的节点`与`已导入的节点`重名软件会`自动重命名`
